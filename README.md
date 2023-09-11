@@ -25,3 +25,21 @@ Select the one checkbox and save it in a variable called checkbox. Be careful, t
 
 ## Solution
 <a href="https://codepen.io/MuhammadShakir-dev/pen/RwEpXzb">Click here to see the solution</a>
+
+## Exercise#5 DOM.
+> I've provided you with an h1 element which contains 7 individual spans (each holding a single letter). Please write some JavaScript to make them rainbow-colored! In app.js you'll find an array of color names called colors.  It looks like: ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet']. Your task is to select all spans, iterate over them, and assign each one of the colors from the colors array.  The first span should be red, the second should be orange, etc.   Your result should look like this;
+
+## Solution
+<a href="https://codepen.io/MuhammadShakir-dev/pen/yLGbBav">Click here to see the solution</a>
+
+## Exercise#6 DOM.
+> In index.html, you'll find 6 <li> elements, two of which have the 'highlight' class applied to them. Please use JavaScript and the classList property to invert which elements have the highlight class. Basically iterate over all the <li> elements and toggle the class of 'highlight' on each one.   Your end result should look like this:
+
+## Solution
+<a href="https://codepen.io/MuhammadShakir-dev/pen/PoXmYmG">Click here to see the solution</a>
+
+## Exercise#7 DOM.
+> Without touching index.html, please use JavaScript to create exactly 100 new button elements! Add each new button inside the container element provided in index.html.  Unfortunately, Udemy's exercise tool does not support to the append method, so you will need to use appendChild.  Here are the steps: Create exactly 100 new button elements Each button must have some text inside of it (it doesn't matter what) Each button must be appended inside the container div.
+
+## Solution
+<a href="https://codepen.io/MuhammadShakir-dev/pen/wvRdwrd">Click here to see the solution</a>
